@@ -1,0 +1,11 @@
+{
+  "name": "responsive-design",
+  "version": "1.0.0",
+  "description": "- [x] Responsive Design\r     - definition\r     - wikipedia (theory)\r     - wikipedia (demo)\r - [x] Units in CSS\r - [x] Media Queries\r     - percentage (drawing)\r     - percentage (html demo)\r         - Review css\r             - *\r             - body * --> every element in body\r             - body > * --> every direct descendant\r             - html tags\r             - ids\r             - classes\r         - media screen\r         - media print\r - [] Preprocessors\r     - definition\r - [] Writing Sassy CSS (SASS)\r     - download Sass\r     - test\r     - watch\r     - sass review \r         - nested html elements\r         - nested hover\r     - saas practice (demo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

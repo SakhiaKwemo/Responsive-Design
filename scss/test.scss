@@ -1,0 +1,17 @@
+@import 'variables';
+
+h1 {
+    color: $primary-color;
+}
+
+div {
+    div {
+        img { 
+            height: 40px;
+
+            &:hover{
+                opacity: 50%;
+            }
+        }
+    }
+}
